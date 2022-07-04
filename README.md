@@ -1,4 +1,4 @@
-## Olá eu sou Nonatto Júnior. Que bom que vocÇe está aqui!
+## Olá eu sou Nonatto Júnior. Que bom que você está aqui!
 
 <div align="center">
   <a href="https://github.com/nonattojunior">
